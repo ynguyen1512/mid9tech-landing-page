@@ -5,5 +5,9 @@ export default {
   LOGO: {
     MID_9_TECH: midnightTech,
   },
+
+  BACKGROUND: {
+    VIDEO_BG: '@/assets/images/video-bg.mp4'
+  }
   
 };
